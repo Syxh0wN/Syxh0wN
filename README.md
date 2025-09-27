@@ -1,12 +1,16 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Leonardo&fontSize=50&fontAlignY=40&desc=Desenvolvedor%20Backend%20%26%20Game%20Dev&descAlignY=55&descAlign=center"/>
+</div>
 
-# 👋 Olá, eu sou Leonardo!
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend+%F0%9F%9A%80;Game+Developer+%F0%9F%8E%AE;Especialista+em+SA-MP+%F0%9F%8E%AE;Foco+em+Sistemas+Otimizados+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Syxh0wN&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Syxh0wN?style=for-the-badge&color=blue)
-![GitHub User's stars](https://img.shields.io/github/stars/Syxh0wN?style=for-the-badge&color=yellow)
+<div align="center">
 
-### 🚀 Desenvolvedor Backend | 🎮 Game Developer (SA-MP & FiveM) | 💡 Foco em Sistemas Otimizados
+![Profile Views](https://komarev.com/ghpvc/?username=Syxh0wN&color=blueviolet&style=for-the-badge&label=VISITANTES)
+![GitHub followers](https://img.shields.io/github/followers/Syxh0wN?style=for-the-badge&color=blue&label=SEGUIDORES)
+![GitHub User's stars](https://img.shields.io/badge/ESTRELAS-14-yellow?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leodevwb)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardorsouz)
@@ -18,6 +22,10 @@
 ---
 
 ## 🎯 Sobre Mim
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=const+leonardo+%3D+%7B;nome%3A+%22Leonardo%22%2C;area%3A+%22Backend+%26+Game+Dev%22%2C;linguagens%3A+%5B%22JS%22%2C+%22TS%22%2C+%22C%2B%2B%22%2C+%22Pawn%22%5D%2C;status%3A+%22Dispon%C3%ADvel+para+oportunidades%22;%7D%3B" alt="Typing SVG" />
+</div>
 
 ```javascript
 const leonardo = {
@@ -77,19 +85,23 @@ const leonardo = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syxh0wN&show_icons=true&theme=dark&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Syxh0wN&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=📈%20Estatísticas%20do%20GitHub&card_width=500" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syxh0wN&layout=compact&theme=dark&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syxh0wN&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=🔥%20Linguagens%20Mais%20Usadas" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Syxh0wN&theme=dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Syxh0wN&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=00D9FF&dates=00D9FF" alt="GitHub Streak" />
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Syxh0wN&theme=darkhub&no-frame=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Syxh0wN&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
 ## 🎯 Projetos em Destaque
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Projetos+que+desenvolvi+com+amor+%F0%9F%92%9C;APIs%2C+Games+e+Sistemas+%F0%9F%9A%80;Confira+abaixo+%F0%9F%8E%AE" alt="Typing SVG" />
+</div>
 
 <table>
 <tr>
@@ -100,7 +112,7 @@ const leonardo = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-API REST completa para sistema de delivery de comida. Marketplace que conecta clientes com lojas.
+🚀 **API REST completa** para sistema de delivery de comida. Marketplace que conecta clientes com lojas.
 
 </td>
 <td width="50%">
@@ -110,7 +122,7 @@ API REST completa para sistema de delivery de comida. Marketplace que conecta cl
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
-API de headless commerce com catálogo, carrinho e checkout idempotente.
+⚡ **API de headless commerce** com catálogo, carrinho e checkout idempotente.
 
 </td>
 </tr>
@@ -121,7 +133,7 @@ API de headless commerce com catálogo, carrinho e checkout idempotente.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Pawn](https://img.shields.io/badge/Pawn-FF6B35?style=flat&logo=pawn&logoColor=white)
 
-Software Development Kit para implementar sistemas de voz em servidores SA-MP.
+🎯 **Software Development Kit** para implementar sistemas de voz em servidores SA-MP.
 
 </td>
 <td width="50%">
@@ -130,7 +142,7 @@ Software Development Kit para implementar sistemas de voz em servidores SA-MP.
 ![Pawn](https://img.shields.io/badge/Pawn-FF6B35?style=flat&logo=pawn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
-Sistema completo de roleplay para servidores SA-MP com recursos avançados.
+🏆 **Sistema completo de roleplay** para servidores SA-MP com recursos avançados.
 
 </td>
 </tr>
@@ -164,6 +176,10 @@ Sistema completo de roleplay para servidores SA-MP com recursos avançados.
 ## 💡 Frase do Dia
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%22O+c%C3%B3digo+%C3%A9+poesia+em+movimento%22%2C;%22cada+linha+conta+uma+hist%C3%B3ria%22%2C;%22de+inova%C3%A7%C3%A3o+e+criatividade%22%2C;%22Transformando+ideias+em+solu%C3%A7%C3%B5es%22" alt="Typing SVG" />
+</div>
+
+<div align="center">
 
 > "O código é poesia em movimento, cada linha conta uma história de inovação e criatividade."
 
@@ -186,6 +202,10 @@ Sistema completo de roleplay para servidores SA-MP com recursos avançados.
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Obrigado+por+visitar!&fontSize=30&fontAlignY=40&desc=Vamos+conectar+e+criar+algo+incr%C3%ADvel+juntos!&descAlignY=55&descAlign=center"/>
+</div>
+
+<div align="center">
 
 ### ⭐ Se gostou do meu trabalho, considere dar uma estrela nos meus repositórios!
 
@@ -193,7 +213,9 @@ Sistema completo de roleplay para servidores SA-MP com recursos avançados.
 
 ---
 
-**"Transformando ideias em código, código em soluções!"** 🚀
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=%22Transformando+ideias+em+c%C3%B3digo%22%2C;%22c%C3%B3digo+em+solu%C3%A7%C3%B5es%22%2C;%22Feito+com+amor+e+caf%C3%A9%22" alt="Typing SVG" />
+</div>
 
 **Feito com ❤️ e muito ☕**
 
