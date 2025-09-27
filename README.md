@@ -162,6 +162,6 @@ Sistema completo de roleplay para servidores SA-MP com recursos avançados.
 ---
 
 
-**Feito com ❤️ e muito ☕**
+**Desenvolvido com foco e dedicação**
 
 </div>
