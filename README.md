@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Syxh0wN?style=for-the-badge&color=blue)
 ![GitHub User's stars](https://img.shields.io/github/stars/Syxh0wN?style=for-the-badge&color=yellow)
 
-### 🚀 Desenvolvedor Full Stack | 🎮 Game Developer (SA-MP & FiveM) | 💡 Foco em Sistemas Otimizados
+### 🚀 Desenvolvedor Backend | 🎮 Game Developer (SA-MP & FiveM) | 💡 Foco em Sistemas Otimizados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leodevwb)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardorsouz)
@@ -22,13 +22,13 @@
 ```javascript
 const leonardo = {
     nome: "Leonardo",
-    area: "Desenvolvimento Full Stack & Game Development",
+    area: "Desenvolvimento Backend & Game Development",
     linguagens: ["JavaScript", "TypeScript", "C++", "Pawn"],
-    frameworks: ["Node.js", "Express", "NestJS", "React"],
+    frameworks: ["Node.js", "Express", "NestJS"],
     bancoDados: ["PostgreSQL", "MongoDB", "MySQL"],
     gameDev: ["SA-MP", "FiveM", "Pawn", "C++"],
     interesses: ["Sistemas Otimizados", "Automação", "Bots", "Game Development"],
-    objetivo: "Criar sistemas eficientes e soluções inovadoras para games e web",
+    objetivo: "Criar sistemas eficientes e soluções inovadoras para games e backend",
     status: "Disponível para oportunidades"
 };
 ```
@@ -44,14 +44,11 @@ const leonardo = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Pawn](https://img.shields.io/badge/Pawn-FF6B35?style=for-the-badge&logo=pawn&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🚀 Frameworks & Bibliotecas
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
@@ -63,15 +60,14 @@ const leonardo = {
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
