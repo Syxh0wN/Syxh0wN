@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Leonardo&fontSize=50&fontAlignY=40&desc=Desenvolvedor%20Backend%20%26%20Game%20Dev&descAlignY=55&descAlign=center"/>
-</div>
 
+# 👋 Olá, eu sou Leonardo!
+
+### 🚀 Desenvolvedor Backend | 🎮 Game Developer (SA-MP & FiveM) | 💡 Foco em Sistemas Otimizados
+
+</div>
 
 <div align="center">
 
@@ -149,9 +152,6 @@ Sistema completo de roleplay para servidores SA-MP com recursos avançados.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Obrigado+por+visitar!&fontSize=30&fontAlignY=40&desc=Vamos+conectar+e+criar+algo+incr%C3%ADvel+juntos!&descAlignY=55&descAlign=center"/>
-</div>
 
 <div align="center">
 
