@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Leonardo!
 
-### 🚀 Desenvolvedor Backend | 🎮 Game Developer (SA-MP & FiveM) | 💡 Foco em Sistemas Otimizados
+### 🚀 Desenvolvedor Backend | 💡 Especialista em APIs e Sistemas Escaláveis
 
 </div>
 
@@ -27,13 +27,13 @@
 ```javascript
 const leonardo = {
     nome: "Leonardo",
-    area: "Desenvolvimento Backend & Game Development",
-    linguagens: ["JavaScript", "TypeScript", "C++", "Pawn"],
+    area: "Desenvolvimento Backend",
+    linguagens: ["JavaScript", "TypeScript", "C++"],
     frameworks: ["Node.js", "Express", "NestJS"],
-    bancoDados: ["PostgreSQL", "MongoDB", "MySQL"],
-    gameDev: ["SA-MP", "FiveM", "Pawn", "C++"],
-    interesses: ["Sistemas Otimizados", "Automação", "Bots", "Game Development"],
-    objetivo: "Criar sistemas eficientes e soluções inovadoras para games e backend",
+    bancoDados: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+    especialidades: ["APIs REST", "Microserviços", "Sistemas Escaláveis"],
+    interesses: ["Arquitetura de Software", "Performance", "DevOps", "Automação"],
+    objetivo: "Criar sistemas robustos e escaláveis para aplicações web",
     status: "Disponível para oportunidades"
 };
 ```
@@ -48,7 +48,7 @@ const leonardo = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Pawn](https://img.shields.io/badge/Pawn-FF6B35?style=for-the-badge&logo=pawn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🚀 Frameworks & Bibliotecas
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -56,6 +56,7 @@ const leonardo = {
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### 🗄️ Banco de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -108,17 +109,17 @@ API REST completa para sistema de delivery de comida. Marketplace que conecta cl
 
 API de headless commerce com catálogo, carrinho e checkout idempotente.
 
-### 🎮 [SA-MP Voice](https://github.com/Syxh0wN/sampvoice)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Pawn](https://img.shields.io/badge/Pawn-FF6B35?style=flat&logo=pawn&logoColor=white)
+### 🔧 [Sistema de Automação](https://github.com/Syxh0wN/automation-system)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
-Software Development Kit para implementar sistemas de voz em servidores SA-MP.
+Sistema de automação para processos empresariais com integração de APIs.
 
-### 🚀 [Brasil Role Play](https://github.com/Syxh0wN/brasil-roleplay)
-![Pawn](https://img.shields.io/badge/Pawn-FF6B35?style=flat&logo=pawn&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+### 🚀 [Microserviços](https://github.com/Syxh0wN/microservices)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-Sistema completo de roleplay para servidores SA-MP com recursos avançados.
+Arquitetura de microserviços com containerização e orquestração.
 
 ---
 
@@ -127,9 +128,9 @@ Sistema completo de roleplay para servidores SA-MP com recursos avançados.
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/Syxh0wN/api-food-delivery/pull/1) in [Syxh0wN/api-food-delivery](https://github.com/Syxh0wN/api-food-delivery)
 2. 🚀 Pushed 3 commits to [Syxh0wN/api-headless-commerce](https://github.com/Syxh0wN/api-headless-commerce)
-3. 💬 Commented on issue [#2](https://github.com/Syxh0wN/sampvoice/issues/2) in [Syxh0wN/sampvoice](https://github.com/Syxh0wN/sampvoice)
+3. 💬 Commented on issue [#2](https://github.com/Syxh0wN/automation-system/issues/2) in [Syxh0wN/automation-system](https://github.com/Syxh0wN/automation-system)
 4. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🎯 Opened issue [#3](https://github.com/Syxh0wN/brasil-roleplay/issues/3) in [Syxh0wN/brasil-roleplay](https://github.com/Syxh0wN/brasil-roleplay)
+5. 🎯 Opened issue [#3](https://github.com/Syxh0wN/microservices/issues/3) in [Syxh0wN/microservices](https://github.com/Syxh0wN/microservices)
 <!--END_SECTION:activity-->
 
 ---
