@@ -21,8 +21,8 @@ Me chamo Leonardo e trabalho com desenvolvimento backend focado em ApiDesign, es
 
 ### Estatisticas
 
+![FotoDoPerfil](https://github.com/Syxh0wN.png?size=180)
 ![GitHubStats](https://github-readme-stats.vercel.app/api?username=Syxh0wN&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syxh0wN&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ---
 
