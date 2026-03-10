@@ -1,6 +1,6 @@
-# LeonardoSouza
+# Leonardo Souza
 
-**`BackendDeveloper`**
+**`Backend Developer`**
 
 Me chamo Leonardo e trabalho com desenvolvimento backend focado em ApiDesign, escalabilidade, seguranca e performance. Tenho experiencia com servicos web, integracoes entre sistemas e arquitetura para aplicacoes de alto impacto.
 
